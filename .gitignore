@@ -1,6 +1,1 @@
 *.csproj
-.vs/
-bin/
-obj/
-*.sln
-*.cs
