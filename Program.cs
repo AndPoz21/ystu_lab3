@@ -45,5 +45,5 @@
     }
     else
     {
-        Console.WriteLine("Неизвестный оператор.");
-   }
+    Console.WriteLine("Неизвестный оператор.");
+    }
