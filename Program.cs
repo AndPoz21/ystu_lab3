@@ -7,13 +7,13 @@
     Console.WriteLine("Введите первое число:");
     a = Convert.ToDouble(Console.ReadLine());
 
-    Console.WriteLine("Введите оператор (*,/,+,-):");
+Console.WriteLine("Введите оператор (*,/,+,-,%):");
     oper = Convert.ToChar(Console.ReadLine());
 
     Console.WriteLine("Введите второе число:");
     b = Convert.ToDouble(Console.ReadLine());
 
-    if (oper == '+')
+if (oper == '+')
     {
         total = a + b;
         Console.WriteLine("Cумма " + a + " и " + b + " равна " + total + ".");
@@ -36,7 +36,12 @@
         total = a / b;
         Console.WriteLine("Деление " + a + " на " + b + " равно " + total + ".");
     }
-    else
+    else if (oper == '%')
+{
+    total = a * (b/100);
+    Console.WriteLine("Процент от числа " + a + " по числу " + b + " равен " + total + "%");
+}
+else
     {
     Console.WriteLine("Неизвестный оператор.");
     }
