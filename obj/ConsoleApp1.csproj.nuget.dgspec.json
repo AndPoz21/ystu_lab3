@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\assas\\.nuget\\packages\\",
+        "outputPath": "C:\\Учеба\\Инструментальные средства информационных систем\\Лабораторные\\Lr5\\ystu_lab\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\assas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
